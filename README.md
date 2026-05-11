@@ -11,9 +11,7 @@ Este projeto foi desenvolvido com o objetivo de colocar em prática meus estudos
 Que tal dar uma olhada no código rodando ao vivo direto na nuvem?
 [Visualizar Notebook no Google Colab](https://colab.research.google.com/github/miriaamaral/sprint-programaria-ia-no-trabalho/blob/main/sprint-programaria-ia-no-trabalho.ipynb)
 
-> **Dica:** Tire um print da sua tela do Colab mostrando o código rodando com as respostas (como "Brasília", "3" e "Real") e adicione aqui!
-
-<img width="1366" height="640" alt="Print do código rodando no Colab" src="sua-imagem-aqui.jpg" />
+<img width="1366" height="640" alt="Print do código rodando no Colab" src="resultado-colab.png" />
 
 ---
 
